@@ -11,3 +11,4 @@
  * 
  */
 
+// 1. A cada rodada, cada jogador pode ou não comprar mais cartas. Quando ambos os jogadores estiverem satisfeitos, ou seja, quando não desejarem comprar mais cartas, é feita a soma da pontuação da mão de cada jogador.
